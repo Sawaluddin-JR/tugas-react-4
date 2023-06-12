@@ -1,0 +1,15 @@
+.product {
+    height: 400px;
+    width: 500px;
+    background-color:darkgray;
+    border-radius: 4;
+    padding: 15px;
+    color:blue;
+    margin-bottom: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.image{
+    width: 180px;
+    height: 180px; 
+    object-fit: contain;
+}
